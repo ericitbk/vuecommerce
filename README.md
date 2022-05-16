@@ -1,6 +1,9 @@
 # VueCommerce
 
-![VueCcommerce](https://cosmic-s3.imgix.net/6cd9c950-1325-11e8-be86-2f02fdef3380-screenshot-vuecommerce.cosmicapp.co-2018.02.16-19-56-21.png?w=1000)
+![VueCommerce](https://user-images.githubusercontent.com/16897421/168647602-7b2fd5e5-b478-40cb-a5b0-c8737befe7b9.png)
+
+![VueCommerce](https://user-images.githubusercontent.com/16897421/168647825-abdb85e4-e3d4-40c8-b159-f2776f072f71.png)
+
 
 > VueCommerce app with Nuxt and [Cosmic JS](https://cosmicjs.com). Payments processed by Stripe.
 
